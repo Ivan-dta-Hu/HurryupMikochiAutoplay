@@ -5,7 +5,7 @@ This Python program is designed to automatically play Hurryup!Mikochi! in holopa
 The requirements are followings:
 - install python
 - install pyautogui, pynput, csv packages
-- set the display to window and maximize the window
+- set the display of holoparade to window and maximize the window
 
 Download the file to the same folder and run the Replay.py script. You can stop the program at any point by pressing esc key.
 
