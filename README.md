@@ -7,7 +7,7 @@ The requirements are followings:
 - install pyautogui, pynput, csv packages
 - set the display of holoparade to window and maximize the window
 
-Download the file to the same folder and run the Replay.py script. You can stop the program at any point by pressing esc key.
+Download the files to the same folder and run the Replay.py script. You can stop the program at any point by pressing esc key.
 
 Video
 ----
