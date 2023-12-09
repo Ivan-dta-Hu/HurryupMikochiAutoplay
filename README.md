@@ -1,4 +1,4 @@
-Autoplay program
+Coin Farming Program
 =============
 
 This Python program is designed to automatically play Hurryup!Mikochi! in holoparade so that you can farm coin without effort.
